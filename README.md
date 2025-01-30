@@ -21,7 +21,7 @@ This is a **Railway Management System** similar to IRCTC, built using **Node.js,
 │-- Dockerfile # Docker configuration
 │-- docker-compose.yml # Docker Compose configuration
 
---git clone https://github.com/yourusername/railway-management.git  
+--git clone https://github.com/JKM203/railway-management.git  
 cd railway-management  
 
 1.intall dependencies
